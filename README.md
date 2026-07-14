@@ -1,6 +1,6 @@
 # ZillaSAT
 
-This repo is to document the design process, architecture, and development of the ZillaOBC.
+This repo is to document the design process, architecture, and development of the ZillaSAT.
 
 # What is ZillaSAT
 
